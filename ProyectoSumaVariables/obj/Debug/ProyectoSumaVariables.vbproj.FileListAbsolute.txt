@@ -1,0 +1,10 @@
+c:\users\usuario\documents\visual studio 2015\Projects\ProyectoSumaVariables\ProyectoSumaVariables\bin\Debug\ProyectoSumaVariables.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\ProyectoSumaVariables\ProyectoSumaVariables\bin\Debug\ProyectoSumaVariables.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ProyectoSumaVariables\ProyectoSumaVariables\bin\Debug\ProyectoSumaVariables.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\ProyectoSumaVariables\ProyectoSumaVariables\bin\Debug\ProyectoSumaVariables.xml
+c:\users\usuario\documents\visual studio 2015\Projects\ProyectoSumaVariables\ProyectoSumaVariables\obj\Debug\ProyectoSumaVariables.Form1.resources
+c:\users\usuario\documents\visual studio 2015\Projects\ProyectoSumaVariables\ProyectoSumaVariables\obj\Debug\ProyectoSumaVariables.Resources.resources
+c:\users\usuario\documents\visual studio 2015\Projects\ProyectoSumaVariables\ProyectoSumaVariables\obj\Debug\ProyectoSumaVariables.vbproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2015\Projects\ProyectoSumaVariables\ProyectoSumaVariables\obj\Debug\ProyectoSumaVariables.exe
+c:\users\usuario\documents\visual studio 2015\Projects\ProyectoSumaVariables\ProyectoSumaVariables\obj\Debug\ProyectoSumaVariables.xml
+c:\users\usuario\documents\visual studio 2015\Projects\ProyectoSumaVariables\ProyectoSumaVariables\obj\Debug\ProyectoSumaVariables.pdb
